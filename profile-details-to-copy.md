@@ -8,7 +8,7 @@ Shujahat Hussain
 
 ## Bio
 
-Aspiring Data Analyst | Python, SQL, Excel & Power BI | Building finance and business intelligence analytics projects
+Junior Data Analyst | Python, SQL, Excel & Power BI | Building finance and business intelligence analytics projects
 
 ## Company
 
@@ -16,13 +16,15 @@ Leave blank unless you want to add your college, university, or current workplac
 
 ## Location
 
-Pakistan
+Miranshah, Pakistan
 
 ## Website
 
-Use your LinkedIn URL if you have one. If not, use your featured GitHub project:
+https://www.linkedin.com/in/shujahathussain/
 
-https://github.com/shujahathussain-hub/Data-analytics-Project-
+## Public Email
+
+shujahata2131@gmail.com
 
 ## Pinned Repository Recommendation
 
@@ -41,4 +43,3 @@ End-to-end finance analytics project using Python, SQL, Excel, and Power BI to a
 ## Project Topics
 
 python, sql, excel, powerbi, finance, data-analysis, dashboard, portfolio-analysis, business-intelligence, data-analytics
-

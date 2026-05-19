@@ -1,13 +1,17 @@
 <h1 align="center">Hi, I'm Shujahat Hussain</h1>
 
-<h3 align="center">Aspiring Data Analyst | Python | SQL | Excel | Power BI | Finance Analytics</h3>
+<h3 align="center">Junior Data Analyst | Python | SQL | Excel | Power BI | Finance Analytics</h3>
 
 <p align="center">
-  I build business-focused analytics projects that turn raw data into clear insights, dashboards, and decision-ready stories.
+  I build business-focused analytics projects that turn raw data into clean insights, dashboards, and decision-ready stories.
 </p>
 
 <p align="center">
   <a href="https://github.com/shujahathussain-hub/Data-analytics-Project-">Featured Project</a>
+  ·
+  <a href="https://www.linkedin.com/in/shujahathussain/">LinkedIn</a>
+  ·
+  <a href="mailto:shujahata2131@gmail.com">Email</a>
   ·
   <a href="https://github.com/shujahathussain-hub?tab=repositories">Projects</a>
 </p>
@@ -16,7 +20,7 @@
 
 ## About Me
 
-I am building my career in data analytics with a focus on practical business problems, clean data workflows, and dashboard storytelling. My current toolkit includes Python, SQL, Excel, and Power BI, and I am especially interested in finance analytics, portfolio analysis, business intelligence, and KPI reporting.
+I am a junior data analyst from Miranshah, Pakistan, building a strong portfolio around practical business analytics, clean data workflows, and dashboard storytelling. My current toolkit includes Python, SQL, Excel, and Power BI, and I am especially interested in finance analytics, portfolio analysis, business intelligence, and KPI reporting.
 
 I enjoy working through the full analytics process:
 
@@ -64,7 +68,7 @@ Repository: [Finance Portfolio Analytics Dashboard](https://github.com/shujahath
 
 ## Current Focus
 
-- Building strong portfolio projects for data analyst and BI analyst roles
+- Building strong portfolio projects for junior data analyst roles
 - Improving SQL problem solving and dashboard design
 - Practicing business storytelling with real-world datasets
 - Learning advanced Power BI, DAX, and analytics workflows
@@ -85,7 +89,10 @@ Repository: [Finance Portfolio Analytics Dashboard](https://github.com/shujahath
 
 ## Connect
 
-I am open to data analyst internships, junior data analyst roles, business analyst internships, and BI analyst opportunities.
+I am open to junior data analyst roles, data analyst internships, business analyst internships, and BI analyst opportunities.
 
 GitHub: [shujahathussain-hub](https://github.com/shujahathussain-hub)
 
+LinkedIn: [linkedin.com/in/shujahathussain](https://www.linkedin.com/in/shujahathussain/)
+
+Email: [shujahata2131@gmail.com](mailto:shujahata2131@gmail.com)
