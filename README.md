@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shujahat Hussain</h1>
 
-<h3 align="center">Junior Data Analyst | Python | SQL | Excel | Power BI | Finance Analytics</h3>
+<h3 align="center">Junior Data Analyst | Python | SQL | Excel | Power BI | Business Analytics</h3>
 
 <p align="center">
   I build business-focused analytics projects that turn raw data into clean insights, dashboards, and decision-ready stories.
